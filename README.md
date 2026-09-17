@@ -63,52 +63,52 @@ A **Data Lakehouse** merges the low-cost flexibility and scale of cloud object s
 
 *Leading open-source software powering vendor-neutral, multi-engine lakehouse architectures. Sorted by GitHub community stargazers.* ⭐
 
-- **[MinIO](https://github.com/minio/minio)** [![GitHub stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers) 📦  
+- **[MinIO](https://github.com/minio/minio)** [![GitHub_Stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers) 📦  
   High-performance S3-compatible object storage server built for private cloud and Kubernetes lakehouse infrastructure.
 
-- **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) 🌪️  
+- **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers) 🌪️  
   Programmatic workflow orchestration platform to author, schedule, and monitor complex lakehouse ETL/ELT data pipelines.
 
-- **[Apache Spark](https://github.com/apache/spark)** [![GitHub stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers) ⚡  
+- **[Apache Spark](https://github.com/apache/spark)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/spark?style=social&color=white)](https://github.com/apache/spark/stargazers) ⚡  
   Unified analytics processing engine for large-scale data computing—the core execution engine behind most lakehouses.
 
-- **[DuckDB](https://github.com/duckdb/duckdb)** [![GitHub stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) 🦆  
+- **[DuckDB](https://github.com/duckdb/duckdb)** [![GitHub_Stars](https://img.shields.io/github/stars/duckdb/duckdb?style=social&color=white)](https://github.com/duckdb/duckdb/stargazers) 🦆  
   In-process analytical SQL database engine optimized for fast local queries on Parquet, Iceberg, and Delta Lake files.
 
-- **[Apache Flink](https://github.com/apache/flink)** [![GitHub stars](https://img.shields.io/github/stars/apache/flink?style=social&color=white)](https://github.com/apache/flink/stargazers) 🐿️  
+- **[Apache Flink](https://github.com/apache/flink)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/flink?style=social&color=white)](https://github.com/apache/flink/stargazers) 🐿️  
   Stateful stream processing framework widely used for real-time CDC ingestion and low-latency updates into open table formats.
 
-- **[Cube](https://github.com/cube-js/cube)** [![GitHub stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers) 🧊  
+- **[Cube](https://github.com/cube-js/cube)** [![GitHub_Stars](https://img.shields.io/github/stars/cube-js/cube?style=social&color=white)](https://github.com/cube-js/cube/stargazers) 🧊  
   Universal semantic layer for AI applications and data analytics teams building consistent metrics over lakehouse query engines.
 
-- **[Apache Arrow](https://github.com/apache/arrow)** [![GitHub stars](https://img.shields.io/github/stars/apache/arrow?style=social&color=white)](https://github.com/apache/arrow/stargazers) 🏹  
+- **[Apache Arrow](https://github.com/apache/arrow)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/arrow?style=social&color=white)](https://github.com/apache/arrow/stargazers) 🏹  
   In-memory columnar data platform enabling high-speed zero-copy data transport between lakehouse compute engines.
 
-- **[dbt Core](https://github.com/dbt-labs/dbt-core)** [![GitHub stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers) 🟧  
+- **[dbt Core](https://github.com/dbt-labs/dbt-core)** [![GitHub_Stars](https://img.shields.io/github/stars/dbt-labs/dbt-core?style=social&color=white)](https://github.com/dbt-labs/dbt-core/stargazers) 🟧  
   SQL-first data transformation workflow enabling engineers to transform, model, and test data in-place inside data lakehouses.
 
-- **[Trino](https://github.com/trinodb/trino)** [![GitHub stars](https://img.shields.io/github/stars/trinodb/trino?style=social&color=white)](https://github.com/trinodb/trino/stargazers) 🐰  
+- **[Trino](https://github.com/trinodb/trino)** [![GitHub_Stars](https://img.shields.io/github/stars/trinodb/trino?style=social&color=white)](https://github.com/trinodb/trino/stargazers) 🐰  
   Fast distributed SQL query engine designed for interactive analytics across open table formats and federated data sources.
 
-- **[Apache DataFusion](https://github.com/apache/datafusion)** [![GitHub stars](https://img.shields.io/github/stars/apache/datafusion?style=social&color=white)](https://github.com/apache/datafusion/stargazers) 🦀  
+- **[Apache DataFusion](https://github.com/apache/datafusion)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/datafusion?style=social&color=white)](https://github.com/apache/datafusion/stargazers) 🦀  
   Extensible Rust-native SQL query engine and query planner for building custom high-performance data processing tools.
 
-- **[Apache Iceberg](https://github.com/apache/iceberg)** [![GitHub stars](https://img.shields.io/github/stars/apache/iceberg?style=social&color=white)](https://github.com/apache/iceberg/stargazers) 🧊  
+- **[Apache Iceberg](https://github.com/apache/iceberg)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/iceberg?style=social&color=white)](https://github.com/apache/iceberg/stargazers) 🧊  
   Open table format for giant analytical datasets featuring ACID transactions, schema evolution, time travel, and multi-engine support.
 
-- **[Delta Lake](https://github.com/delta-io/delta)** [![GitHub stars](https://img.shields.io/github/stars/delta-io/delta?style=social&color=white)](https://github.com/delta-io/delta/stargazers) 📐  
+- **[Delta Lake](https://github.com/delta-io/delta)** [![GitHub_Stars](https://img.shields.io/github/stars/delta-io/delta?style=social&color=white)](https://github.com/delta-io/delta/stargazers) 📐  
   Open storage layer providing ACID transactions, scalable metadata handling, and batch/streaming convergence for data lakes.
 
-- **[Apache Hudi](https://github.com/apache/hudi)** [![GitHub stars](https://img.shields.io/github/stars/apache/hudi?style=social&color=white)](https://github.com/apache/hudi/stargazers) 🪵  
+- **[Apache Hudi](https://github.com/apache/hudi)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/hudi?style=social&color=white)](https://github.com/apache/hudi/stargazers) 🪵  
   Streaming data lakehouse table format optimized for fast upserts, incremental processing pipelines, and CDC ingestion.
 
-- **[lakeFS](https://github.com/treeverse/lakeFS)** [![GitHub stars](https://img.shields.io/github/stars/treeverse/lakeFS?style=social&color=white)](https://github.com/treeverse/lakeFS/stargazers) 🌿  
+- **[lakeFS](https://github.com/treeverse/lakeFS)** [![GitHub_Stars](https://img.shields.io/github/stars/treeverse/lakeFS?style=social&color=white)](https://github.com/treeverse/lakeFS/stargazers) 🌿  
   Git-like version control engine for object storage, bringing branching, committing, and rollback capabilities to lakehouses.
 
-- **[Apache Gravitino](https://github.com/apache/gravitino)** [![GitHub stars](https://img.shields.io/github/stars/apache/gravitino?style=social&color=white)](https://github.com/apache/gravitino/stargazers) 🌌  
+- **[Apache Gravitino](https://github.com/apache/gravitino)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/gravitino?style=social&color=white)](https://github.com/apache/gravitino/stargazers) 🌌  
   High-performance federated metadata catalog for managing unified data assets across multi-cloud lakehouse environments.
 
-- **[Apache Polaris](https://github.com/apache/polaris)** [![GitHub stars](https://img.shields.io/github/stars/apache/polaris?style=social&color=white)](https://github.com/apache/polaris/stargazers) 🐻  
+- **[Apache Polaris](https://github.com/apache/polaris)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/polaris?style=social&color=white)](https://github.com/apache/polaris/stargazers) 🐻  
   Open-source Apache Iceberg REST catalog delivering centralized multi-engine access control, RBAC, and governance.
 
 ---
@@ -127,7 +127,7 @@ A **Data Lakehouse** merges the low-cost flexibility and scale of cloud object s
 ## 🤝 How to Contribute 💡
 
 1. 🔀 **Fork** this repository.
-2. ✏️ Add or update entries in `README.md` maintaining the existing structure (Table format for SaaS, bullet + star badge for Open Source).
+2. ✏️ Add or update entries in `README.md` maintaining the existing structure (Table format for SaaS, bullet + Stars_Badge for Open Source).
 3. 📋 Ensure descriptions are factual, link directly to official repositories/websites, and specify pricing/tier details.
 4. 🚀 Open a **Pull Request** with a clear explanation of your additions.
 
